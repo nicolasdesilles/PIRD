@@ -1,0 +1,11 @@
+requests
+os
+beautifulsoup4
+pandas
+time
+pvlib
+math
+tqdm
+urllib3 
+matplotlib
+numpy
