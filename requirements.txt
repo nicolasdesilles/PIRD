@@ -1,5 +1,3 @@
-requests
-os
 beautifulsoup4
 pandas
 time
