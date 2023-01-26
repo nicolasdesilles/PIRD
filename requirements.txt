@@ -1,3 +1,6 @@
+ipykernel>=6
+jupyterlab==3.3.0
+jupyterlab-link-share
 beautifulsoup4
 pandas
 time
